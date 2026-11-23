@@ -18,7 +18,36 @@ The supplied screenshot document contains the following key experiences:
 - Update Tracker and Report New Update
 - User Guide
 
-> Add the exported screenshots to the `Screenshots/` folders described in [Project Files & Resources](#08-project-files--resources), then replace the suggested image paths below with the committed image paths.
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/dbb8cad6-376f-4cca-83a8-b174b8174c7b" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/71ac0803-a083-42ea-97f9-ffd1b7ea44d4" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/381690e8-0552-4ece-bdd6-2acdfaafa97f" />
+<img width="468" height="193" alt="image" src="https://github.com/user-attachments/assets/887b1036-1b54-4837-848d-b7b934e33626" />
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/ec150fe7-b594-4b57-9666-718dea25b475" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/92621425-4489-42e6-83ec-3c68ec7050af" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/b389ddc3-c297-4835-bb90-b04cea3d235b" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/eed32c7b-8804-45f2-89df-6ff3462f910e" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/1298e9f3-20cd-4495-a279-868df32d7924" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/6e726f45-5ab9-4491-b575-37d428cc32a5" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/b0a87c9b-ad72-49b6-a7ef-9e3e930ec36d" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/d5defa8b-a1f1-4e76-a575-796e68d6b55f" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/8c89716b-6c92-4977-b6ca-d7766e0fac89" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/273f3bce-299b-4f48-8bd4-72da5edc2810" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/4211d7c1-0396-4023-b0bf-60db2e1455b1" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/b8a0078f-fd52-4c37-8b3d-01ec0077436c" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/66ffbecf-cbfd-47ec-9682-2bd86de6a770" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/7d00990c-34fd-4bb8-8425-84761b78bf29" />
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/7e9720f1-25f7-49ef-b2b9-d16e604c7151" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/05bcadfd-1170-4348-96dd-18bd3acd3685" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/984b9ff2-ded9-4bb6-9d69-9f28dabc4246" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/ad28d778-5c72-494a-8ffb-59e4d362f12f" />
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/b4f2a58a-dd6b-4087-b8b3-aaa1a7dcd6c1" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/f1bdee3e-2eba-4cd4-bce1-291798051221" />
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/a02fd45e-6038-4e50-af6d-6c0f6a0ca3b7" />
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/ab94e549-54dc-41c4-80ad-66da5e546ae8" />
+<img width="468" height="265" alt="image" src="https://github.com/user-attachments/assets/b84b4401-e449-48a3-b020-3f3ad0f7a92d" />
+<img width="468" height="265" alt="image" src="https://github.com/user-attachments/assets/27635304-7bc2-4336-a3a4-528c9aa513ae" />
+
+
 
 ---
 
